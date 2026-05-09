@@ -1,0 +1,8 @@
+{
+    "wake_word": "zen",
+    "silence_threshold": 2.0,
+    "stt_model": "base",
+    "tts_model_path": "en_US-lessac-medium.onnx",
+    "grok_api_key": "your_grok_api_key_here",
+    "grok_url": "https://api.x.ai/v1/chat/completions"
+}

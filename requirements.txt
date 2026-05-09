@@ -1,0 +1,10 @@
+faster-whisper
+piper-tts
+sounddevice
+numpy
+scipy
+requests
+pocketsphinx
+pyaudio
+onnxruntime
+opencv-python
